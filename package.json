@@ -1,0 +1,25 @@
+{
+  "name": "shopjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deanvlue/shopjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanvlue/shopjs/issues"
+  },
+  "homepage": "https://github.com/deanvlue/shopjs",
+  "dependencies": {
+    "chai": "^3.4.0",
+    "express": "^4.13.3",
+    "mocha": "^2.3.3",
+    "mongoose": "^4.1.12"
+  }
+}
